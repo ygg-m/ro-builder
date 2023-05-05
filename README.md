@@ -12,7 +12,7 @@ Welcome to the Ragnarök Online Builder, a web application built using React, Ty
 
 ## Getting Started
 
-To use the Ragnarök Online Builder, simply visit the [website](https://example.com) and create an account. Once logged in, you can start creating builds for your favorite classes.
+To use the Ragnarök Online Builder, simply visit the [website](#) and create an account. Once logged in, you can start creating builds for your favorite classes.
 
 ## Technologies Used
 
