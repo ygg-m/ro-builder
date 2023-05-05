@@ -1,46 +1,53 @@
-# Getting Started with Create React App
+# Ragnarök Online Builder
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Welcome to the Ragnarök Online Builder, a web application built using React, TypeScript, and Firebase. With this application, you can create, save, and share builds for all the different classes available in the popular MMORPG game Ragnarök Online. The builds are based on database information from [divine-pride.net](https://divine-pride.net/).
 
-## Available Scripts
+## Features
 
-In the project directory, you can run:
+- Create and save builds for all classes available in the game
+- Browse and search for builds created by other users
+- Share your builds with others through unique URLs
+- View detailed information about each class and skill in the game
+- Real-time synchronization of data across all users
 
-### `yarn start`
+## Getting Started
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+To use the Ragnarök Online Builder, simply visit the [website](https://example.com) and create an account. Once logged in, you can start creating builds for your favorite classes.
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+## Technologies Used
 
-### `yarn test`
+The Ragnarök Online Builder was built using the following technologies:
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+- React
+- TypeScript
+- Firebase
 
-### `yarn build`
+## Installation
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+To install and run the Ragnarök Online Builder locally, follow these steps:
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+1. Clone the repository using `git clone https://github.com/your-username/your-repo.git`
+2. Navigate to the project directory using `cd your-repo`
+3. Install the dependencies using `npm install`
+4. Create a new Firebase project and add your Firebase configuration information to a `.env` file in the root of the project.
+5. Start the application using `npm start`
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+## Contributing
 
-### `yarn eject`
+Contributions to the Ragnarök Online Builder are welcome and encouraged. To contribute, please follow these steps:
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+1. Fork the repository using the "Fork" button on GitHub
+2. Clone the forked repository to your local machine using `git clone https://github.com/your-username/your-forked-repo.git`
+3. Create a new branch for your changes using `git checkout -b your-branch-name`
+4. Make changes to the code
+5. Push your changes to your forked repository using `git push origin your-branch-name`
+6. Create a pull request from your forked repository to the original repository
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+## Credits
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+The Ragnarök Online Builder was created by Ygor Goulart. It uses data from [divine-pride.net](https://divine-pride.net/) to provide accurate and up-to-date information about the game.
+Ragnarök Online is a game by [Gravity](https://www.gravity.co.kr/).
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+## License
 
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
+The Ragnarök Online Builder is licensed under the [MIT License](https://opensource.org/licenses/MIT).
