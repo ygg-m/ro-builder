@@ -45,8 +45,8 @@ Contributions to the Ragnarök Online Builder are welcome and encouraged. To con
 
 ## Credits
 
-The Ragnarök Online Builder was created by Ygor Goulart. It uses data from [divine-pride.net](https://divine-pride.net/) to provide accurate and up-to-date information about the game.
-Ragnarök Online is a game by [Gravity](https://www.gravity.co.kr/).
+- The Ragnarök Online Builder was created by Ygor Goulart. It uses data from [divine-pride.net](https://divine-pride.net/) to provide accurate and up-to-date information about the game.
+- Ragnarök Online is a game by [Gravity](https://www.gravity.co.kr/).
 
 ## License
 
